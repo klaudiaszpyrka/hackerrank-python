@@ -43,4 +43,4 @@ def repeatedString(s, n):
 
 # One-liner for geeks & faster than the above
 def repeatedString(s, n):
-    return s.count('a') * (n // len(s)) + s[:n%len(s)].count('a')
+    return s.count('a') * (n // len(s)) + s[:n % len(s)].count('a')
