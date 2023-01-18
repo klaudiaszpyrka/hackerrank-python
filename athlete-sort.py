@@ -1,4 +1,4 @@
-# HackerRank https://www.hackerrank.com/challenges/python-sort-sort/problem
+# https://www.hackerrank.com/challenges/python-sort-sort/problem
 
 # Sample input:
 # 5 3

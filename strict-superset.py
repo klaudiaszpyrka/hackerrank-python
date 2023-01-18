@@ -1,4 +1,4 @@
-# HackerRank https://www.hackerrank.com/challenges/py-check-strict-superset/problem 
+# https://www.hackerrank.com/challenges/py-check-strict-superset/problem 
 
 superset_to_test = set([int(x) for x in input().split(" ")])
 #print(superset_to_test)

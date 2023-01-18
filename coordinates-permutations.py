@@ -1,4 +1,4 @@
-# HackerRank https://www.hackerrank.com/challenges/list-comprehensions/problem
+# https://www.hackerrank.com/challenges/list-comprehensions/problem
 
 x = 1
 y = 1

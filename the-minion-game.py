@@ -1,4 +1,4 @@
-# HackerRank https://www.hackerrank.com/challenges/the-minion-game/problem
+# https://www.hackerrank.com/challenges/the-minion-game/problem
 
 def minion_game(string):
     stuart = 0

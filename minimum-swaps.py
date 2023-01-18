@@ -1,4 +1,4 @@
-# HackerRank https://www.hackerrank.com/challenges/minimum-swaps-2/problem 
+# https://www.hackerrank.com/challenges/minimum-swaps-2/problem 
 
 def minimumSwaps(arr):
     swaps = 0

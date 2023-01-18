@@ -1,4 +1,4 @@
-# HackerRank https://www.hackerrank.com/challenges/py-if-else/problem
+# https://www.hackerrank.com/challenges/py-if-else/problem
 
 n = 5
 

@@ -1,4 +1,4 @@
-# HackerRank https://www.hackerrank.com/challenges/zipped/problem
+# https://www.hackerrank.com/challenges/zipped/problem
 
 # Sample input:
 # 5 3
